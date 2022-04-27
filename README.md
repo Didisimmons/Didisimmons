@@ -8,18 +8,16 @@ I am a hard worker who creates functional websites with a user-centered approach
 
 - 🔭 Currently waiting for my diploma results in Full-Stack Software Development with Code Institute.
 
-- 🌱 I’m currently learning **React** 
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 💬 Ask me about **HTML5 |CSS3 | Bootstrap |  Python | Django**
 
-- 📫 Connect with me:  <a href=" https://www.linkedin.com/in/onyema-onyejekwe-492128102/"><img src="images/linkedin.png" alt="Onyema | LinkedIn" width="21px"/></a>
+- 📫 Connect with me via [my LinkedIn page](https://www.linkedin.com/in/onyema-onyejekwe-492128102/)
 
 - ⚡ Fun fact: **Moved abroad at 16 alone to pursue my further education**
 
 
-## 💼**Technical Skill**s
+## 💼**Technical Skill**
 ### **Languages**
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
