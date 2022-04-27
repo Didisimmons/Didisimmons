@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-My name is Onyema Onyejekwe from Nigeria living in Dublin, and I am a junior software developer who is always learning to improve my front end and back end skills. I enjoy creating visually appealing websites and applications that assist users in problem solving. I find it extremely rewarding to be able to witness the entire process of designing and developing user-friendly websites, from the design phase to the implementation phase.
+My name is Onyema from Nigeria living in Dublin, and I am a junior software developer who is always learning to improve my front end and back end skills. I enjoy creating visually appealing websites and applications that assist users in problem solving. I find it extremely rewarding to be able to witness the entire process of designing and developing user-friendly websites, from the design phase to the implementation phase.
 
 I believe that great solutions should not only solve user problems but also leave users with positive emotions after interacting with a product/service.
 I am a hard worker who creates functional websites with a user-centered approach, paying close attention to details and constantly looking for ways to improve my skills.
