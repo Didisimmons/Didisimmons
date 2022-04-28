@@ -6,7 +6,7 @@ My name is Onyema from Nigeria living in Dublin, and I am a junior software deve
 I believe that great solutions should not only solve user problems but also leave users with positive emotions after interacting with a product/service.
 I am a hard worker who creates functional websites with a user-centered approach, paying close attention to details and constantly looking for ways to improve my skills.
 
-<img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="coding" />
+<img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="image of man coding" />
 
 - 🔭 Currently waiting for my diploma results in Full-Stack Software Development with Code Institute.
 
@@ -48,8 +48,25 @@ I am a hard worker who creates functional websites with a user-centered approach
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)
 ![Figma](https://img.shields.io/badge/Figma%20-%23251200.svg?&style=for-the-badge&logo=Balsamiq&logoColor=F87900)
 
-
+## 📈**GitHub Stats** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didisimmons&label=Profile%20views&color=0e75b6&style=flat" alt="didisimmons profile count" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=didisimmons&show_icons=true&locale=en&layout=compact" alt="didisimmons" /></p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didisimmons)](https://github.com/anuraghazra/github-readme-stats)
+
+## **Projects**
+Here are some interesting projects I've worked on.
+
+- [**FLYBODY**](https://didisimmons.github.io/Flybody-gym/): A static website for a fictional fitness business. (HTML, CSS, Bootstrap)   
+  ![flybody](images/.jpg)  
+
+- [**LILELI**](https://didisimmons.github.io/LILELI-QUIZ-GAME/): A web-based interactive quiz game designed to educate the public about sexual abuse and consent in the workplace. (HTML, CSS, JavaScript, Bootstrap, jQuery)
+![lileli](images/.png)   
+
+- [**Ayo Recipes**](http://ayo-recipes.herokuapp.com/): A recipe-sharing and online cookbook web application (HTML, CSS, JavaScript, Python, Material Design Bootstrap, jQuery, Flask, Jinja, MongoDB)  
+![ayorecipes](images/.jpg)  
+
+- [**MMÀ**](https://mma-beauty.herokuapp.com/): A full stack e-commerce shop selling afro carribean hair products.(HTML, CSS, JavaScript, Python, Django, Bootstrap, jQuery, Postgres, AWS S3, Stripe)   
+![mmabeauty](images/.png)  
 
