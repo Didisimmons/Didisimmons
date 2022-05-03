@@ -17,7 +17,7 @@ I am a hard worker who creates functional websites with a user-centered approach
 
 - 📫 Connect with me via [my LinkedIn page](https://www.linkedin.com/in/onyema-onyejekwe-492128102/)
 
-- ⚡ Fun fact: **Moved abroad at 16 alone to pursue my further education**
+- ⚡ Fun fact: **Moved abroad at 16 alone to pursue my education**
 
 
 ## 💼**Technical Skill**
