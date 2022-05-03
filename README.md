@@ -1,3 +1,4 @@
+![Didi's banner](https://github.com/Didisimmons/Didisimmons/blob/main/developer%20header.png)
 
 ### Hi there 👋
 
@@ -59,14 +60,15 @@ I am a hard worker who creates functional websites with a user-centered approach
 Here are some interesting projects I've worked on.
 
 - [**FLYBODY**](https://didisimmons.github.io/Flybody-gym/): A static website for a fictional fitness business. (HTML, CSS, Bootstrap)   
-  ![flybody](images/.jpg)  
+  ![flybody](https://github.com/Didisimmons/Didisimmons/blob/main/flybody.png)  
 
 - [**LILELI**](https://didisimmons.github.io/LILELI-QUIZ-GAME/): A web-based interactive quiz game designed to educate the public about sexual abuse and consent in the workplace. (HTML, CSS, JavaScript, Bootstrap, jQuery)
-![lileli](images/.png)   
+
+  ![lileli](https://github.com/Didisimmons/Didisimmons/blob/main/lileli.png)   
 
 - [**Ayo Recipes**](http://ayo-recipes.herokuapp.com/): A recipe-sharing and online cookbook web application (HTML, CSS, JavaScript, Python, Material Design Bootstrap, jQuery, Flask, Jinja, MongoDB)  
-![ayorecipes](images/.jpg)  
+![ayorecipes](https://github.com/Didisimmons/Didisimmons/blob/main/ayorecipes.png)  
 
 - [**MMÀ**](https://mma-beauty.herokuapp.com/): A full stack e-commerce shop selling afro carribean hair products.(HTML, CSS, JavaScript, Python, Django, Bootstrap, jQuery, Postgres, AWS S3, Stripe)   
-![mmabeauty](images/.png)  
+![mmabeauty](https://github.com/Didisimmons/Didisimmons/blob/main/mma-overview.png)  
 
