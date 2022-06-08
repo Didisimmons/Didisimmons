@@ -2,14 +2,16 @@
 
 ### Hi there 👋
 
-My name is Onyema from Nigeria living in Dublin, and I am a junior software developer who is always learning to improve my front end and back end skills. I enjoy creating visually appealing intuitive websites and applications that assist businesses in solving problems. I find it extremely rewarding to be able to witness the entire process of designing and developing user-friendly websites, from the design phase to the implementation phase.
+My name is Onyema from Nigeria living in Dublin, and I am a junior software developer who is always learning to improve my front end and back end skills. I enjoy developing visually appealing, user-friendly websites and applications that help businesses solve problems. It's incredibly rewarding for me to be able to see the entire process of designing and developing user-friendly websites, from the design phase to the implementation phase. 
 
 I believe that great solutions should not only solve user problems but also leave users with positive emotions after interacting with a product/service.
-I am a hard worker who creates functional websites with a user-centered approach, paying close attention to details and constantly looking for ways to improve customer experience.
+I am a hard worker who creates functional websites with a user-centered approach, paying close attention to details and constantly looking for ways to improve customer experiences.
+
+My mantra is that anything worth doing is worth doing well, which is why I never give up when the going gets tough and am not afraid to ask questions and communicate clearly and effectively. I am open to criticism and am always looking to expand my knowledge and expertise.
 
 <img align="right" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400"  height="350" alt="image of man coding" />
 
-- 🔭 Currently waiting for my diploma results in Full-Stack Software Development with Code Institute.
+- 🔭 Finished my diploma in Full-Stack Software Development with Code Institute.
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -18,7 +20,6 @@ I am a hard worker who creates functional websites with a user-centered approach
 - 📫 Connect with me via [my LinkedIn page](https://www.linkedin.com/in/onyema-onyejekwe-492128102/)
 
 - ⚡ Fun fact: **Moved abroad at 16 alone to pursue my education**
-
 
 ## 💼**Technical Skill**
 ### **Languages**
@@ -49,12 +50,6 @@ I am a hard worker who creates functional websites with a user-centered approach
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)
 ![Figma](https://img.shields.io/badge/Figma%20-%23251200.svg?&style=for-the-badge&logo=Balsamiq&logoColor=F87900)
 
-## 📈**GitHub Stats** 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=didisimmons&label=Profile%20views&color=0e75b6&style=flat" alt="didisimmons profile count" /> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=didisimmons&show_icons=true&locale=en&layout=compact" alt="didisimmons" /></p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didisimmons)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Projects**
 Here are some interesting projects I've worked on.
@@ -70,4 +65,13 @@ Here are some interesting projects I've worked on.
 
 - [**MMÀ**](https://mma-beauty.herokuapp.com/): A full stack e-commerce shop selling afro carribean hair products.(HTML, CSS, JavaScript, Python, Django, Bootstrap, jQuery, Postgres, AWS S3, Stripe)   
 ![mmabeauty](https://github.com/Didisimmons/Didisimmons/blob/main/mma-overview.png)
+
+
+## 📈**GitHub Stats** 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=didisimmons&label=Profile%20views&color=0e75b6&style=flat" alt="didisimmons profile count" /> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=didisimmons&show_icons=true&locale=en&layout=compact" alt="didisimmons" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=didisimmons)](https://github.com/anuraghazra/github-readme-stats)
+
 
