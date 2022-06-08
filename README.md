@@ -54,18 +54,19 @@ My mantra is that anything worth doing is worth doing well, which is why I never
 ## **Projects**
 Here are some interesting projects I've worked on.
 
+- [**MMÀ**](https://mma-beauty.herokuapp.com/): A full stack e-commerce shop selling afro carribean hair products.(HTML, CSS, JavaScript, Python, Django, Bootstrap, jQuery, Postgres, AWS S3, Stripe)   
+![mmabeauty](https://github.com/Didisimmons/Didisimmons/blob/main/mma-overview.png)
+
+- [**AYO RECIPES**](http://ayo-recipes.herokuapp.com/): A recipe-sharing and online cookbook web application (HTML, CSS, JavaScript, Python, Material Design Bootstrap, jQuery, Flask, Jinja, MongoDB).   
+  ![ayorecipes](https://github.com/Didisimmons/Didisimmons/blob/main/ayorecipes.png)
+
 - [**FLYBODY**](https://didisimmons.github.io/Flybody-gym/): A static website for a fictional fitness business. (HTML, CSS, Bootstrap)   
   ![flybody](https://github.com/Didisimmons/Didisimmons/blob/main/flybody.png)  
   
 - [**LILELI**](https://didisimmons.github.io/LILELI-QUIZ-GAME/): A web-based interactive quiz game designed to educate the public about sexual abuse and consent in the workplace (HTML, CSS, JavaScript, Bootstrap, jQuery).   
   ![lileli](https://github.com/Didisimmons/Didisimmons/blob/main/lileli.png)
   
-- [**AYO RECIPES**](http://ayo-recipes.herokuapp.com/): A recipe-sharing and online cookbook web application (HTML, CSS, JavaScript, Python, Material Design Bootstrap, jQuery, Flask, Jinja, MongoDB).   
-  ![ayorecipes](https://github.com/Didisimmons/Didisimmons/blob/main/ayorecipes.png)
-
-- [**MMÀ**](https://mma-beauty.herokuapp.com/): A full stack e-commerce shop selling afro carribean hair products.(HTML, CSS, JavaScript, Python, Django, Bootstrap, jQuery, Postgres, AWS S3, Stripe)   
-![mmabeauty](https://github.com/Didisimmons/Didisimmons/blob/main/mma-overview.png)
-
+  
 
 ## 📈**GitHub Stats** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didisimmons&label=Profile%20views&color=0e75b6&style=flat" alt="didisimmons profile count" /> </p>
